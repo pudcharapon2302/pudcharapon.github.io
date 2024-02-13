@@ -1,4 +1,6 @@
-[banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techhub.in.th%2Fmeme-what-is-it%2F&psig=AOvVaw0tkSigAQV8dVp3qBRjovWH&ust=1707894799936000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC0_4Hip4QDFQAAAAAdAAAAABAE)
+[banner](![image](https://github.com/pudcharapon2302/pudcharapon.github.io/assets/159878593/fe6fe657-2b1e-4370-9d33-5d6bcf5eaa2e)
+)
+
 
 # สมุดบันทึก
 
