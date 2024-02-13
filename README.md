@@ -3,6 +3,6 @@
 
 # สมุดบันทึก
 
-สำหรับวิชา OOP [OOP](https://github.com/pudcharapon2302/pudcharapon.github.io/tree/main)
+สำหรับวิชา OOP [OOP](https://pudcharapon.github.io)
 
 พัชรพล ยินดีรัมย์
